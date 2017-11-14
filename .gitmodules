@@ -1,0 +1,4 @@
+[submodule "themes/hugo-theme-air"]
+	path = themes/hugo-theme-air
+	url = https://github.com/syui/hugo-theme-air.git
+	branch = master
